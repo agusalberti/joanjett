@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+}
+
+body{color: beige;}
+
+.main {display:flex;
+text-align: justify;
+float: left;
+font-family: sans-serif;
+
+}
+
+
+
+.main {
+    margin-left: left;
+}
+
+.main {  
+
+      width: 700px;
+      height: 700px; 
+      margin: 20px;
+
+        Float: left;
+
+  }
+
+
+
+.aside {  
+    width: 400px;
+    height: 500px;
+    margin: auto;
+    Float: right;
+    
+}
+
+.footer {
+    clear: both;
+font-size: 15px;
+text-align: center;
+padding: 20px
+
+;}
